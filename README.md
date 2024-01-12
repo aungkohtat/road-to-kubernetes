@@ -4,4 +4,5 @@
 
 - [🔬 basic commands part-1](/basic-commands-part-1/README.md)
 - [🔬 basic commands part-2](/basic-commands-part-2/README.md)
+- [🔬 Running workloads in Pods](/Running-workloads-in-Pods/README.md)
 - [Coming]()
