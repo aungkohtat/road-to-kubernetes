@@ -1,1 +1,33 @@
 kubeconfig.yaml
+# Ignore binary files
+*.dll
+*.exe
+*.o
+*.obj
+
+# Ignore package files
+*.tar.gz
+*.tgz
+*.tar
+*.zip
+
+# Ignore build directories
+bin/
+build/
+out/
+
+# Ignore vendor directories
+vendor/
+
+# Ignore logs and temporary files
+*.log
+*.log.*
+*.tmp
+*.swp
+*.swo
+
+# Ignore Istio specific files
+charts/*
+_manifest_generated.yaml
+manifests/*
+node_modules/
