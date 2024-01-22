@@ -5,8 +5,8 @@ metadata:
 spec:
   ipFamilyPolicy: PreferDualStack
   ipFamilies:
-    - IPv6
-    - IPv4
+  - IPv4
+  - IPv6
   type: ClusterIP
   ports:
   - port: 8080
