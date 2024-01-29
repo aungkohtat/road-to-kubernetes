@@ -8,4 +8,7 @@
 - [🔬 Running Workloads in Pods](/Running-workloads-in-Pods/README.md)
 - [🔬 Virtual Clusters With Namespaces](/virtual-clusters-with-namespaces/README.md)
 - [🔬 Kubernetes Deployment](/kubernetes-deployments/README.md)
+- [🔬 Kubernetes Services](/kubernetes-services/README.md)
+- [🔬 Kubernetes Ingress ](/ingress/README.md)
+
 - [Coming Soon]()
