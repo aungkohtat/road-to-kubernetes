@@ -10,5 +10,6 @@
 - [🔬 Kubernetes Deployment](/kubernetes-deployments/README.md)
 - [🔬 Kubernetes Services](/kubernetes-services/README.md)
 - [🔬 Kubernetes Ingress ](/ingress/README.md)
+- [🔬 Creating the Python and JavaScript web apps](/roadtok8s/README.md)
 
 - [Coming Soon]()
