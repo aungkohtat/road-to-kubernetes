@@ -11,5 +11,6 @@
 - [🔬 Kubernetes Services](/kubernetes-services/README.md)
 - [🔬 Kubernetes Ingress ](/ingress/README.md)
 - [🔬 Creating the Python and JavaScript web apps](/roadtok8s/README.md)
+- [🔬 Kubernetes Cluster Setup Using Terraform at DigitalOcean](/k8s-cluster-setup-using-terraform-at-digitalocean/README.md)
 
 - [Coming Soon]()
