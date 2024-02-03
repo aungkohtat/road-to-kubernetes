@@ -13,5 +13,6 @@
 - [🔬 Creating the Python and JavaScript web apps](/roadtok8s/README.md)
 - [🔬 Kubernetes Cluster Setup Using Terraform at DigitalOcean](/k8s-cluster-setup-using-terraform-at-digitalocean/README.md)
 - [🔬 Kubernetes Cluster Setup using with Terraform at Linode](https://github.com/aungkohtat/kubernetes-with-linode/blob/main/terraform-setup/README.md)
-
+- [🔬 NGINX: Open-Source Web Server for Reverse Proxy, Load Balancing, and Caching](https://github.com/aungkohtat/nginx-server/blob/main/README.md)
+- [🔬 Simplify Container Orchestration with Docker Compose](https://github.com/aungkohtat/docker-compose-lab/blob/main/README.md)
 - [Coming Soon]()
