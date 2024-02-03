@@ -12,5 +12,6 @@
 - [🔬 Kubernetes Ingress ](/ingress/README.md)
 - [🔬 Creating the Python and JavaScript web apps](/roadtok8s/README.md)
 - [🔬 Kubernetes Cluster Setup Using Terraform at DigitalOcean](/k8s-cluster-setup-using-terraform-at-digitalocean/README.md)
+- [🔬 Kubernetes Cluster Setup using with Terraform at Linode](https://github.com/aungkohtat/kubernetes-with-linode/blob/main/terraform-setup/README.md)
 
 - [Coming Soon]()
