@@ -1,6 +1,6 @@
 # Kubernetes-in-Action
 
-## **Welcome to the Hands-On Lab! 👐💻🔬📚**
+## **Welcome to My Hands-On Lab! 👐💻🔬📚**
 
 - [🔬 Understanding Containers](/understanding-containers/README.md)
 - [🔬 Basic Commands Part-1](/basic-commands-part-1/README.md)
