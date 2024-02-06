@@ -15,4 +15,5 @@
 - [🔬 Kubernetes Cluster Setup using with Terraform at Linode](https://github.com/aungkohtat/kubernetes-with-linode/blob/main/terraform-setup/README.md)
 - [🔬 NGINX: Open-Source Web Server for Reverse Proxy, Load Balancing, and Caching](https://github.com/aungkohtat/nginx-server/blob/main/README.md)
 - [🔬 Simplify Container Orchestration with Docker Compose](https://github.com/aungkohtat/docker-compose-lab/blob/main/README.md)
+- [🔬 Kubernetes Cluster Setup with terraform and Deploying the bookinfo application at DigitalOcean Platform, Exporing Pods](/bookinfo-app/README.md)
 - [Coming Soon]()
