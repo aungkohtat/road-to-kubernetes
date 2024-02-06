@@ -13,7 +13,7 @@
 ```bash
 echo "digitalocean_api_token=\"YOUR_API_KEY\"" >> terraform.tfvars
 ```
-echo "digitalocean_api_token=\"dop_v1_395074c0ad41374a519898081a9c1017b84824305d2f7bc39fe68c23fb6b98b2\"" >> terraform.tfvars
+echo "digitalocean_api_token=\"dop_v1_fdd3f98daxxxxxe3f999bf6996fe1bxxxxx17008b960709f14297c33199eb5f\"" >> terraform.tfvars
 ## 4-Initialize Terraform
 ```bash
  terraform init
